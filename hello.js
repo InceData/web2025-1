@@ -1,2 +1,2 @@
-const githubUsername = "ВАШ_GITHUB_USERNAME";
+const githubUsername = "InceDATA";
 console.log(`Hello, ${githubUsername}!`);
